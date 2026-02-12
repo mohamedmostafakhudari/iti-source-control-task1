@@ -1,1 +1,14 @@
 Mohamed Mostafa Khudari Omar
+
+1. git init
+2. mkdir task1
+3. touch myfile.txt
+4. type in myfile.txt
+5. git add . (staged)
+6. git commit -m "<message>" (commited and ready to be pushed)
+7. Local Done!
+8. create new repo on github (for hosting).
+9. git remote add [origin] <https / ssh>
+10. git branch -M main (rename master -> main)
+11. git push -u origin main
+12. Remote Synced!
